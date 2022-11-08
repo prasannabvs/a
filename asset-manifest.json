@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thurgoodappneil/static/css/main.6c5602a8.css",
+    "main.js": "/thurgoodappneil/static/js/main.3ec2b13b.js",
+    "index.html": "/thurgoodappneil/index.html",
+    "main.6c5602a8.css.map": "/thurgoodappneil/static/css/main.6c5602a8.css.map",
+    "main.3ec2b13b.js.map": "/thurgoodappneil/static/js/main.3ec2b13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5602a8.css",
+    "static/js/main.3ec2b13b.js"
+  ]
+}
